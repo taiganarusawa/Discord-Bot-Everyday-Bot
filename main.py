@@ -345,4 +345,4 @@ async def place_error(ctx, error):
       await message.channel.purge(limit = 1)
 """
 
-client.run("ODc3MDMyODk4NDg4ODMyMDIx.YRsuiQ.Vx-Prj9rENtwi7i3Cw8FIB2Mk7I")
+client.run(TOKEN)
